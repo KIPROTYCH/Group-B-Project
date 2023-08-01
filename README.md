@@ -1,12 +1,12 @@
 # Phase 2: Group B Project
 
 ### Members:
-#### 1. Yegon (Scrum Master.)
-#### 2. Faith
-#### 3. Shadrack
-#### 4. Noah
-#### 5. Adrian
-#### 6. OmarFarouk
+1. Yegon (Scrum Master.)
+2. Faith
+3. Shadrack
+4. Noah
+5. Adrian
+6. OmarFarouk
 
 #### Repository link
 https://github.com/KIPROTYCH/Group-B-Project.git
