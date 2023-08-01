@@ -6,7 +6,7 @@
 3. Shadrack
 4. Noah
 5. Adrian
-6. OmarFarouk
+6. OmarFarouq
 
 #### Repository link
 https://github.com/KIPROTYCH/Group-B-Project.git
